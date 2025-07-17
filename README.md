@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="220">
-      <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" width="200" alt="Coding Animation" />
+      <img src="https://raw.githubusercontent.com/mahmoudzakaria90/mahmoudzakaria90/main/coding.gif" width="200" alt="Coding Animation" />
     </td>
     <td>
       <h1>👋 Hello, I'm <strong>Vishva</strong></h1>
