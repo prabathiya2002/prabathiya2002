@@ -49,8 +49,8 @@
         </li>
       </ul>
     </td>
-<tr>
-    <td valign="top" style="padding-left: 30px;">
+
+  <td valign="top" style="padding-left: 30px;">
       <h3>Tools & Platforms</h3>
       <ul style="list-style:none; padding-left:0;">
         <li>
