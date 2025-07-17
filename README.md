@@ -1,4 +1,7 @@
 ### Hi there👋
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" width="600" />
+</p>
 <!-- Typing animation -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F78C&center=true&vCenter=true&width=435&lines=Hello+I'm+Vishva+%F0%9F%91%8B;IT+Undergraduate+at+SLIIT;IoT+and+MERN+Developer;Flutter+App+Developer;Open+Source+Lover)
 
