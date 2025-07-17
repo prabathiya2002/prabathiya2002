@@ -1,8 +1,8 @@
 <!-- Intro Section: Coding Animation + Name & Degree -->
 <table>
   <tr>
-    <td width="160">
-      <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" width="150" alt="Coding Animation" />
+    <td width="200">
+      <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" width="180" alt="Coding Animation" />
     </td>
     <td>
       <h2>👋 Hi, I'm <strong>Vishva</strong></h2>
