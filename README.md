@@ -1,4 +1,3 @@
-<!-- 👨‍💻 Animated Coding Intro Section -->
 <table>
   <tr>
     <td width="220">
