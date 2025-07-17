@@ -1,16 +1,15 @@
-<!-- Intro Section: Coding Animation + Name & Degree -->
+<!-- 👨‍💻 Animated Coding Intro Section -->
 <table>
   <tr>
-    <td width="200">
-      <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" width="180" alt="Coding Animation" />
+    <td width="220">
+      <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" width="200" alt="Coding Animation" />
     </td>
     <td>
-      <h2>👋 Hi, I'm <strong>Vishva</strong></h2>
-      <p>
-        🎓 BSc (Hons) in Information Technology<br>
-        🧑‍🎓 Undergraduate at <strong>SLIIT, Sri Lanka</strong><br>
-        💻 Passionate about Full Stack, IoT & Flutter Development
-      </p>
+      <h1>👋 Hello, I'm <strong>Vishva</strong></h1>
+      <h3>🎓 BSc (Hons) in Information Technology</h3>
+      <h4>🔧 Specialization: Information Technology</h4>
+      <h4>🏫 Undergraduate at <strong>SLIIT – Sri Lanka Institute of Information Technology</strong></h4>
+      <p>💡 I’m passionate about Full Stack Web Development, IoT Systems, and Mobile App Engineering with Flutter.</p>
     </td>
   </tr>
 </table>
