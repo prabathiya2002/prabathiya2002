@@ -3,7 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F78C&center=true&vCenter=true&width=435&lines=Hello+I'm+Vishva+%F0%9F%91%8B;IT+Undergraduate+at+SLIIT;IoT+and+MERN+Developer;Flutter+App+Developer;Open+Source+Lover)
 
 <!-- GitHub Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!--
