@@ -13,29 +13,23 @@
   </tr>
 </table>
 
-<br/>
+<br />
 
 <!-- Skills Section -->
 <h2>🛠 Skills & Programming Languages</h2>
 <p>
-  <strong>Languages:</strong> JavaScript, Python, Java, C, C++ <br/>
-  <strong>Frontend:</strong> React, HTML, CSS, Bootstrap <br/>
-  <strong>Backend:</strong> Node.js, Express, Spring Boot <br/>
-  <strong>Mobile:</strong> Flutter, Android Development <br/>
-  <strong>Databases:</strong> MongoDB, MySQL <br/>
-  <strong>Tools & Platforms:</strong> Git, Docker, Firebase, AWS
+  JavaScript, Python, Java, C, C++, Dart, PHP, Kotlin, SQL
 </p>
 
-<br/>
+<br />
 
-<!-- Contact Links -->
+<!-- Contact Section -->
 <h2>📫 Contact Me</h2>
 <p>
-  <a href="mailto:your.email@example.com" style="text-decoration:none; color:#0366d6;">
-    📧 Email: your.email@example.com
-  </a>  
-  <br/>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0366d6;">
+  <a href="mailto:vishvaprabathiya2002@outlook.com" style="text-decoration:none; color:#0366d6;">
+    📧 Email: vishvaprabathiya2002@outlook.com
+  </a><br />
+  <a href="https://www.linkedin.com/in/vishvapathirage2" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#0366d6;">
     🔗 LinkedIn Profile
   </a>
 </p>
