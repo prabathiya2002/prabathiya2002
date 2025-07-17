@@ -15,11 +15,11 @@
 
 <br/>
 
-<table width="100%" style="table-layout: fixed;">
+<table width="100%" style="table-layout: fixed; border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" style="padding-right: 30px;">
-      <h3>Programming Languages</h3>
-      <ul style="list-style:none; padding-left:0;">
+    <td valign="top" style="padding-right: 40px; border: none; width: 50%;">
+      <h3 style="border-bottom: 2px solid #0366d6; padding-bottom: 5px;">Programming Languages</h3>
+      <ul style="list-style:none; padding-left:0; margin-top:10px;">
         <li> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" style="vertical-align:middle"/> JavaScript
         </li>
@@ -50,9 +50,9 @@
       </ul>
     </td>
 
-  <td valign="top" style="padding-left: 30px;">
-      <h3>Tools & Platforms</h3>
-      <ul style="list-style:none; padding-left:0;">
+  <td valign="top" style="padding-left: 40px; border: none; width: 50%;">
+      <h3 style="border-bottom: 2px solid #0366d6; padding-bottom: 5px;">Tools & Platforms</h3>
+      <ul style="list-style:none; padding-left:0; margin-top:10px;">
         <li>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="20" style="vertical-align:middle"/> IntelliJ IDEA
         </li>
@@ -75,6 +75,7 @@
     </td>
   </tr>
 </table>
+
 
 <br/>
 
