@@ -18,7 +18,7 @@
 <table width="220" style="table-layout: fixed; border-collapse: collapse; border: none; margin: 0; padding: 40px;">
   <tr>
     <td valign="top" style="width: 50%; padding-right: 60px; border: none;">
-      <h3 style="border-bottom: 2px solid #0366d6; padding-bottom: 5px; margin-bottom: 10px;">Programming Languages</h3>
+      <h3 style="border-bottom: 0px solid #0366d6; padding-bottom: 5px; margin-bottom: 10px;">Programming Languages</h3>
       <ul style="list-style: none; padding-left: 0; margin-top: 0;">
         <li>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" style="vertical-align: middle" /> JavaScript
