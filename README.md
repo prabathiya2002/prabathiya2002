@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="220">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Laptop Coding Animation" />
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Typing Animation" />
     </td>
     <td>
       <h1>👋 Hello, I'm <strong>Vishva</strong></h1>
