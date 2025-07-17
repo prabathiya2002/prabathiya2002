@@ -83,7 +83,7 @@
   <a href="mailto:vishvaprabathiya2002@outlook.com" style="text-decoration: none; color: #0366d6;">
     📧 Email: vishvaprabathiya2002@outlook.com
   </a><br />
-  <a href="https://www.linkedin.com/in/vishvapathirage2" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0366d6;">
+  <a href="https://www.linkedin.com/in/vishva-pathirage/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #0366d6;">
     🔗 LinkedIn Profile
   </a>
 </p>
