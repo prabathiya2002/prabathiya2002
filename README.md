@@ -1,4 +1,4 @@
-### Hi thereee 👋
+### Hi there👋
 
 <!--
 **prabathiya2002/prabathiya2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
