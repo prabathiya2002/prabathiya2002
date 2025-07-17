@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="220">
-     <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="GitHub Octocat" />
+     <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" alt="Octocat Hello" />
     </td>
     <td>
       <h1>👋 Hello, I'm <strong>Vishva</strong></h1>
