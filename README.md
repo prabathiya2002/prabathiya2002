@@ -15,7 +15,7 @@
 
 <br />
 
-<table width="220" style="table-layout: fixed; border-collapse: collapse; border: none; margin: 0; padding: 40px;">
+<table width="220" style="table-layout: fixed; border-collapse: collapse; border: none; margin: 0; padding: 60px;">
   <tr>
     <td valign="top" style="width: 50%; padding-right: 60px; border: none;">
       <h3 style="border-bottom: 0px solid #0366d6; padding-bottom: 5px; margin-bottom: 10px;">Programming Languages</h3>
