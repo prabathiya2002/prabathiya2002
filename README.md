@@ -1,9 +1,13 @@
 ### Hi there👋
+<!-- 👨‍💻 Coding Animation -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" width="600" />
+  <img src="https://cdn.jsdelivr.net/gh/abhisheknaiidu/abhisheknaiidu@master/code.gif" style="max-width: 100%; height: auto;" width="500" alt="Coding Animation" />
 </p>
-<!-- Typing animation -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F78C&center=true&vCenter=true&width=435&lines=Hello+I'm+Vishva+%F0%9F%91%8B;IT+Undergraduate+at+SLIIT;IoT+and+MERN+Developer;Flutter+App+Developer;Open+Source+Lover)
+
+<!-- 🧠 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F78C&center=true&vCenter=true&width=600&lines=Hello+I'm+Vishva+%F0%9F%91%8B;IT+Undergraduate+at+SLIIT;Flutter+%2B+IoT+Developer;MERN+Stack+Enthusiast;Always+Building+Cool+Things" alt="Typing SVG" />
+</p>
 
 
 
