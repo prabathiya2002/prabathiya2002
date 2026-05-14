@@ -109,49 +109,6 @@
 
 ---
 
-<!-- ===== TROPHIES ===== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Vishva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ec4899&area=true&hide_border=false&border_color=1e2a40&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
 <!-- ===== CONTACT ===== -->
 ## 📫 Connect With Me
 
